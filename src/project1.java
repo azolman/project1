@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Random;
-//test
+//test2
 import java.util.Scanner;
 
 public class project1 {
